@@ -1,7 +1,5 @@
 # Matteo Rossato - Portfolio Website
 
-![Header](screenshots/profile.png)
-
 ## Description
 
 This is a personal portfolio website for Matteo Rossato, a software engineer. The website is designed with a minimalist black and white aesthetic to showcase Matteo's skills, projects, and professional experience in a clean and elegant way.
@@ -104,4 +102,4 @@ This project is available as open source under the terms of the MIT License.
 
 Matteo Rossato - [matteo.rossato@example.com](mailto:matteo.rossato@example.com)
 
-Project Link: [https://github.com/yourusername/portfolio-website](https://github.com/yourusername/portfolio-website)
+Project Link: [https://github.com/yourusername/portfolio-website](https://github.com/MatteoRossato/)
